@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @chupakobra6
-- 👀 I’m interested in something enjoyful, lol
-- 🌱 I’m currently learning "how i can live?"
-- 💞️ I’m looking to collaborate with Michael Jackson
-- 📫 How to reach me? I really don't know...
+- 👀 I’m interested in ice cream
+- 🌱 I’m currently learning "How to Stop Living and Start Worrying?"
+- 💞️ I’m looking to collaborate with Chikolai Nernyavsky
+- 📫 How to reach me? Better answer me - where can I find an assembly for Barotrauma?
 
 <!---
 chupakobra6/chupakobra6 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
