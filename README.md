@@ -24,7 +24,7 @@
 ---
 
 ## 🚀 Featured Projects
-- **[vagvin](https://github.com/chupakobra6/vagvin)** — Django-based web app for managing …  
+- **[vagvin](https://github.com/chupakobra6/vagvin)** — Django-based web app for managing [@Data_ViN_PR_bot](https://t.me/Data_ViN_PR_bot)  
 - **[telegram_mirror](https://github.com/chupakobra6/telegram_mirror)** — Python script to mirror Telegram chats.  
 
 ---
