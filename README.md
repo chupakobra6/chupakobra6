@@ -41,7 +41,6 @@ Open to backend, automation, and developer tooling work.
 
 ## Contact
 
-- Website: [thedarktower.ru](https://thedarktower.ru)
 - Telegram: [@Pheik15](https://t.me/Pheik15)
 - Channel: [@YamiNoTou](https://t.me/yaminotou)
 - Email: `igorpheik@gmail.com`
