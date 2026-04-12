@@ -1,14 +1,19 @@
 # Igor / chupakobra6
 
-Python engineer building Telegram bots, automation pipelines, and pragmatic developer tools.
+Go engineer with production backend experience.
 
-I like small systems that do real work: background workers, deployment-safe Python services, CLI tooling, media and document workflows, and operational paths that still make sense after the first release.
+Previously at Flant.
 
-Open to backend, automation, and developer tooling work.
+Most of my public GitHub is Python tooling, Telegram automation, and side projects. Commercial backend work is primarily in Go.
+
+I like small systems that do real work: background workers, deployment-safe services, CLI tooling, media and document workflows, and operational paths that still make sense after the first release.
+
+Open to backend, platform, automation, and developer tooling work.
 
 ## What I work on
 
-- Python backend and automation
+- Go backend services and integrations
+- Python tooling and automation
 - Telegram bots and chat workflows
 - PostgreSQL, Docker, backups, and deployment hygiene
 - CLI utilities, PDF workflows, and media tooling
@@ -36,11 +41,6 @@ Open to backend, automation, and developer tooling work.
 - [redrawing_master](https://github.com/chupakobra6/redrawing_master)  
   PyQt5 overlay tool for cursor projection and tracing workflows.
 
-- [nft_images_generator](https://github.com/chupakobra6/nft_images_generator)  
-  Trait-based image generator for NFT-style asset collections.
-
 ## Contact
 
 - Telegram: [@Pheik15](https://t.me/Pheik15)
-- Channel: [@YamiNoTou](https://t.me/yaminotou)
-- Email: `igorpheik@gmail.com`
