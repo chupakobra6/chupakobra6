@@ -1,45 +1,47 @@
-# Hi there, I’m @chupakobra6 👋
+# Igor / chupakobra6
 
-**Backend & Go Developer • Web3 & Crypto Enthusiast**
+Python engineer building Telegram bots, automation pipelines, and pragmatic developer tools.
 
----
+I like small systems that do real work: background workers, deployment-safe Python services, CLI tooling, media and document workflows, and operational paths that still make sense after the first release.
 
-## 📖 About Me
-- 💼 I build scalable backend systems using Go and Python.  
-- 🔗 Passionate about Web3, decentralized finance (DeFi), and blockchain.  
-- ☀️ Exploring Solana development with `@solana/web3.js` and Anchor.  
-- 🚀 DevOps fan: Docker, Kubernetes, Deckhouse.
+Open to backend, automation, and developer tooling work.
 
----
+## What I work on
 
-## 🛠️ Skills & Tools
-[![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)](https://golang.org/)  
-[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://python.org/)  
-[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)](https://docker.com/)  
-[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)](https://kubernetes.io/)  
-[![Solana](https://img.shields.io/badge/Solana-00D15F?logo=solana&logoColor=white)](https://solana.com/)  
-[![Web3.js](https://img.shields.io/badge/web3.js-190B47?logo=ethereum&logoColor=white)](https://github.com/ethereum/web3.js/)  
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)](https://postgresql.org/)
+- Python backend and automation
+- Telegram bots and chat workflows
+- PostgreSQL, Docker, backups, and deployment hygiene
+- CLI utilities, PDF workflows, and media tooling
 
----
+## Selected projects
 
-## 🚀 Featured Projects
-- **[vagvin](https://github.com/chupakobra6/vagvin)** — Django-based web app for managing [@Data_ViN_PR_bot](https://t.me/Data_ViN_PR_bot)  
-- **[telegram_mirror](https://github.com/chupakobra6/telegram_mirror)** — Python script to mirror Telegram chats.  
+| Project | What it is |
+| --- | --- |
+| [trackmate](https://github.com/chupakobra6/trackmate) | Telegram accountability bot with a separate worker, PostgreSQL state, and practical Docker operations. |
+| [pf2e-pdf-tools](https://github.com/chupakobra6/pf2e-pdf-tools) | Toolkit for safely editing Pathfinder 2e fillable PDFs without breaking cross-viewer form rendering. |
+| [video2note](https://github.com/chupakobra6/video2note) | `whisper.cpp`-based CLI for turning audio and video into transcripts and notes. |
+| [telegram_mirror](https://github.com/chupakobra6/telegram_mirror) | Telegram mirroring bot with database-backed configuration and rendered message images. |
+| [video_downloader](https://github.com/chupakobra6/video_downloader) | Authenticated downloader for conference video platforms using browser cookies and Playwright. |
+| [vagvin](https://github.com/chupakobra6/vagvin) | Django product for VIN checks, payments, and production-style monitoring. |
 
----
+## How I build
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chupakobra6&show_icons=true)
+- Keep interfaces explicit and diffs small.
+- Treat deployment, backup, and restore paths as part of the product.
+- Prefer local tools that are easy to rerun and hard to misuse.
+- Optimize for systems that survive real usage, not just the happy-path demo.
 
----
+## More public work
 
-## 📫 Contact Me
-- 🌐 Website: [thedarktower.ru](https://thedarktower.ru)  
-- 💬 Telegram: [@Pheik15](https://t.me/Pheik15)
-- 📢 Telegram Channel: [@YamiNoTou](https://t.me/yaminotou)  
-- ✉️ Email: igorpheik@gmail.com  
+- [redrawing_master](https://github.com/chupakobra6/redrawing_master)  
+  PyQt5 overlay tool for cursor projection and tracing workflows.
 
----
+- [nft_images_generator](https://github.com/chupakobra6/nft_images_generator)  
+  Trait-based image generator for NFT-style asset collections.
 
-*Thank you for stopping by!*  
+## Contact
+
+- Website: [thedarktower.ru](https://thedarktower.ru)
+- Telegram: [@Pheik15](https://t.me/Pheik15)
+- Channel: [@YamiNoTou](https://t.me/yaminotou)
+- Email: `igorpheik@gmail.com`
