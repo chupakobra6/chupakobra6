@@ -1,4 +1,4 @@
-# Igor Koshensky
+# Igor Koshenskii
 
 **Go engineer focused on reliable backend and platform systems.**
 
