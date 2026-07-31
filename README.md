@@ -1,8 +1,8 @@
 # Igor Koshensky
 
-**Senior Go engineer building reliable backend and platform systems.**
+**Go engineer focused on reliable backend and platform systems.**
 
-I turn complex requirements into clear architecture, pragmatic APIs, resilient services, and production-ready delivery. I care about correctness, observability, and systems that stay easy to operate as they grow.
+Most of my work is Go backend: APIs, asynchronous workflows, PostgreSQL, integrations, CI/CD, and observability. The emphasis is on clear service boundaries, explicit failure handling, and systems that remain understandable and safe to operate as they grow.
 
 `Go` · `Backend` · `Distributed systems` · `PostgreSQL` · `CI/CD` · `Observability`
 
