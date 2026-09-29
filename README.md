@@ -1,6 +1,8 @@
-## Go backend & infrastructure
+## Go Backend Developer
 
-I'm Igor. I worked on Deckhouse at Flant. I also build and run [Star Sky Project](https://starskyproject.com), including StarBoard, an online whiteboard used for lessons.
+I build backend services, APIs and background workers in Go. Previously at Flant, where I worked on Deckhouse and Kubernetes infrastructure.
+
+**Go · PostgreSQL · Kubernetes**
 
 Moscow · [Email](mailto:igorpheik@gmail.com) · [Telegram](https://t.me/Pheik15) · [Star Sky Project](https://starskyproject.com)
 
@@ -16,13 +18,6 @@ Public contributions: [registry authentication](https://github.com/deckhouse/3p-
 
 An online whiteboard for teaching: draw together, bring in tasks and PDFs, and share a board by link without signing up. I develop the editor, collaboration, cloud storage and deployment.
 
-<a href="https://starskyproject.com/board/">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/starboard-dark.png">
-    <img src="assets/starboard-light.png" alt="A geometry lesson in StarBoard, with drawing tools and a shared canvas." width="720">
-  </picture>
-</a>
-
 [Try StarBoard](https://board.starskyproject.com/) · [About the app](https://starskyproject.com/board/)
 
 I also write Go tools for data collection, bot testing and publishing [RimWorld mods](https://github.com/chupakobra6/star-sky-rimworld-mods).
@@ -33,4 +28,4 @@ I replaced quadratic path collection with a depth-first traversal. A synthetic b
 
 ---
 
-Go · PostgreSQL · Kubernetes · Python · TypeScript
+Open to Go backend roles. [Get in touch](mailto:igorpheik@gmail.com).
