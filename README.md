@@ -1,45 +1,36 @@
-<picture>
-  <img src="assets/header.png" alt="Igor Koshenskii — Go Backend &amp; Platform Engineer. Reliable systems, useful products, thoughtful automation." width="100%">
-</picture>
+## Go backend & infrastructure
 
-<p>
-  <a href="mailto:igorpheik@gmail.com"><img src="assets/email.png" alt="Email: igorpheik@gmail.com" height="32"></a>
-  <a href="https://t.me/Pheik15"><img src="assets/telegram.png" alt="Telegram: @Pheik15" height="32"></a>
-  <a href="https://starskyproject.com"><img src="assets/website.png" alt="Star Sky Project" height="32"></a>
-</p>
+I'm Igor. I worked on Deckhouse at Flant. I also build and run [Star Sky Project](https://starskyproject.com), including StarBoard, an online whiteboard used for lessons.
 
-I build **Go services, Kubernetes infrastructure, and AI-powered automation**, taking work from technical design through implementation, testing, and operations. My focus is clear APIs, reliable background workflows, and recovery when dependencies fail.
+Moscow · [Email](mailto:igorpheik@gmail.com) · [Telegram](https://t.me/Pheik15) · [Star Sky Project](https://starskyproject.com)
 
-### Previously at Flant · Deckhouse
+### Flant · Deckhouse
 
-Designed and built the core Go backend of **a Kubernetes-native OCI registry in three months**, giving teams an integrated place to store application images without operating a separate registry.
+I built the core Go backend for an OCI image registry integrated into Deckhouse in three months. I handled the design, Kubernetes API, authentication and namespace permissions, storage management, and image cleanup through to release.
 
-- **Kubernetes-native access:** API extensions, token authentication, and namespace-aware RBAC for users and CI.
-- **Reliable storage:** PVC lifecycle and controlled garbage collection, with write recovery after success, timeout, or failure.
-- **End-to-end ownership:** architecture, cross-team design reviews, Helm, CI/CD, observability, and operational documentation.
+The cleanup process had to stop writes safely and restore them even after a failed or timed-out job. CI, monitoring and operating docs were part of the work too.
 
-Public work from this period: [authentication](https://github.com/deckhouse/3p-docker_auth/pull/1) · [RBAC](https://github.com/deckhouse/3p-docker_auth/pull/2) · [orchestrator tests](https://github.com/deckhouse/deckhouse/pull/14659) · [registry update reliability](https://github.com/deckhouse/deckhouse/pull/17472).
+Public contributions: [registry authentication](https://github.com/deckhouse/3p-docker_auth/pull/1), [RBAC](https://github.com/deckhouse/3p-docker_auth/pull/2), [registry update handling](https://github.com/deckhouse/deckhouse/pull/17472).
 
-### Selected open-source contributions
+### StarBoard
 
-**ITER Organization · IMAS-Validator**<br>
-Removed quadratic path collection: **15.97 s → 83 ms** for 50,000 filled paths in a synthetic benchmark, preserving results and adding regression tests. [Merged PR & benchmark](https://github.com/iterorganization/IMAS-Validator/pull/23).
+An online whiteboard for teaching: draw together, bring in tasks and PDFs, and share a board by link without signing up. I develop the editor, collaboration, cloud storage and deployment.
 
-**whisper.cpp**<br>
-Fixed VAD argument parsing so the minimum-silence option controls the intended parameter. [Merged PR](https://github.com/ggml-org/whisper.cpp/pull/3963).
+<a href="https://starskyproject.com/board/">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/starboard-dark.png">
+    <img src="assets/starboard-light.png" alt="A geometry lesson in StarBoard, with drawing tools and a shared canvas." width="720">
+  </picture>
+</a>
 
-### Independent work
+[Try StarBoard](https://board.starskyproject.com/) · [About the app](https://starskyproject.com/board/)
 
-Under **[Star Sky Project](https://starskyproject.com)**, I build products and the tools needed to run them:
+I also write Go tools for data collection, bot testing and publishing [RimWorld mods](https://github.com/chupakobra6/star-sky-rimworld-mods).
 
-- **Interactive products:** [StarBoard](https://board.starskyproject.com/), a collaborative whiteboard with guest sharing, local storage, and connection recovery; Go/PostgreSQL backends with persistent workflows.
-- **Automation & AI tooling:** resumable data pipelines, local speech recognition, multi-source monitoring, and [real-user E2E testing](https://github.com/chupakobra6/telegram-bot-e2e-test-tool).
-- **Release engineering:** Go tooling for building, validating, publishing, and maintaining [RimWorld mods and translations](https://github.com/chupakobra6/star-sky-rimworld-mods).
+### ITER · IMAS-Validator
 
-**Core:** Go · PostgreSQL · Kubernetes · Docker · Linux · CI/CD · Prometheus<br>
-**Also:** Python · TypeScript · C# · ASR · AI workflow automation
+I replaced quadratic path collection with a depth-first traversal. A synthetic benchmark with 50,000 paths went from **15.97 s to 83 ms**. The [merged PR](https://github.com/iterorganization/IMAS-Validator/pull/23) includes the benchmark and regression tests.
 
 ---
 
-**Moscow, Russia · Open to backend, platform, and developer-tooling opportunities.**<br>
-[Get in touch](mailto:igorpheik@gmail.com) · [Telegram](https://t.me/Pheik15) · [starskyproject.com](https://starskyproject.com)
+Go · PostgreSQL · Kubernetes · Python · TypeScript
